@@ -1,0 +1,183 @@
+
+COMMENTS
+p {
+    color: blue;
+}        
+/* this is a comment in a css */
+h1 {
+    color: red;
+}
+
+
+
+<em> курсив - важный текст
+<strong> полужирный - оч важный
+ <! Doctype html>
+ <head>
+   <Body>
+   </Body>
+</Head>
+
+
+<! doctype html>
+   <head>здесь находятся инструкции (и описание) по загрузке страницы</head>
+   <body> 
+    <h1>this is a test heading</h1>
+   </Body>
+ Head - всегда невидимая часть
+Body - сам сайт
+
+--- Monday, December 4, 2017 ---
+
+[9:38:17 PM] Nadine:
+Unordered list
+<ul>
+<li></li>
+</ul>
+
+[9:59:28 PM] Nadine:
+Ordered <ol>
+
+--- Tuesday, December 5, 2017 ---
+
+[12:01:20 AM] Nadine:
+</head>
+<body>
+  <img src="redwoods_state_park.jpg" alt="Stout Memorial Grove in Jedediah Smith Redwoods State Park">
+  <p>
+    Stout Memorial Grove in Jedediah Smith Redwoods State Park in 2011 by Chmee2 (Own work) GFDL or CC BY-SA 3.0, via Wikimedia Commons - <a href="https://commons.wikimedia.org/wiki/File:Stout_Memorial_Grove_in_Jedediah_Smith_Redwoods_State_Park_in_2011_(22).JPG)">Source.</a>
+  </p>
+</body>
+</html>
+ Если файл для отображения - локальный, либо указывать полный путь, либо указывать сразу на файл, без /
+
+
+
+
+<!-- This is a comment in HTML-->
+<div class="example">Words, words, words.</div>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Headers Quiz</title>
+  <!-- the next line loads the tests for the Udacity Feedback extension -->
+  <meta name="udacity-grader" content="http://udacity.github.io/fend/fend-refresh/lesson2/problem-set/headers/tests.json">
+</head>
+<body>
+  <p>Add your headers below this paragraph element! Add an h1, h2, h3, and h4 to finish the quiz. And make sure every header has text content :)</p>
+  <h1>This is a big header.</h1>
+  <h2>This header is smaller.</h2>
+  <h3>This is small header.<h3>
+  <h4>This header is the smallest of them all.</h4>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Lists Quiz</title>
+  <!-- the next line loads the tests for the Udacity Feedback extension -->
+  <meta name="udacity-grader" content="http://udacity.github.io/fend/fend-refresh/lesson2/problem-set/lists/tests.json">
+</head>
+<body>
+  <p>Create an unordered list! Make a list of the three web languages: HTML, CSS and JavaScript.</p>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+  </ul>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tree to HTML</title>
+  <!-- the next line loads the tests for the Udacity Feedback extension -->
+  <meta name="udacity-grader" content="http://udacity.github.io/fend/fend-refresh/lesson2/problem-set/tree-to-html/tests.json">
+</head>
+<body>
+<h1>Lorem Ipsum</h1>
+  <div>
+<p>In publishing and graphic design, lorem ipsum is a filler text or greeking commonly used to demonstrate the textual elements of a graphic document or visual presentation.
+<p>Replacing meaningful content with placeholder text allows designers to design the form of the content before the content itself has been produced.
+  </div>
+</h1>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Web Dev Blog Post</title>
+</head>
+<body>
+  <!-- This is adapted from: http://blog.udacity.com/2016/01/hottest-jobs-in-2016-2-web-developer.html -->
+  <!-- Format the text below! -->
+  <h1>Hottest Jobs in 2016 #2: Web Developer</h1>
+<p>
+By <i><b>Christopher Watkins</b></i>
+<p>
+  January 19, 2016
+<p>
+<img src="http://i1.wp.com/blog.udacity.com/wp-content/uploads/2016/01/Slack-for-iOS-Upload.jpg?zoom=2&amp;resize=320%2C168" alt="Hottest Jobs in 2016. #2 Web Developer.">
+<p>
+  There is a simple reason why Web Developer is such a hot job right now. Put simply, what Web Developers do is create how we experience … the web. If you proceed from the notion that every person who engages with the web would prefer a great experience, then you can say that everyone who engages with the web would prefer that a Web Developer have done a great job. Companies of course know this, so they hire Web Developers to ensure their sites provide great experiences. So, lots of websites and lots of users means lots of demand. LOTS of demand. 🔥
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Humans vs Machines Blog</title>
+</head>
+<body>
+  <!-- This was adapted from: http://blog.udacity.com/2016/03/humans-vs-machines-an-ai-odyssey-2.html -->
+  <!-- Format this text to match the mockup exactly! -->
+  <h1>Humans vs. Machines: An AI Odyssey</h1>
+  
+  <p>By <i><b>Christopher Watkins</i></b>
+  
+  <p> March 10, 2016
+  
+  <p> <i><strong>***Breaking News: AlphaGo has won the first two matches!***</strong> In this, the third in our series on the epic Go matches being played between AlphaGo (Google’s Artificial Intelligence software) and Lee Se-Dol (Current Go World Champion), we look at the history of Humans vs. Machines, and the innovations that have led us to this incredible moment in time.</i>
+  <p>
+   <img src="http://i2.wp.com/blog.udacity.com/wp-content/uploads/2016/03/56df2490a351d802222160.gif" alt="Alpha Go screenshot">
+   <p>
+    For as long as humans have built things, we’ve wrestled with the implications of what we’ve built. In many cases, these philosophical and ethical wrestlings have made for great drama—think Frankenstein, or 2001: A Space Odyssey. Often, the hypothetical scenarios we envision come remarkably close to true, and the discoveries we’ve made in the fields of Artificial Intelligence and Machine Learning make clear that a “computer with a mind of its own” is going to take over the world not such a fantastic thing to imagine any longer.
+
+   <p>
+    <h2>The Triumph Of Deep Blue</h2>
+
+   <p>
+    Perhaps this is why we are so captivated by human vs. machine competitions, because the idea of being overcome by that which we’ve created speaks to something very deep within our collective consciousness. When IBM’s Deep Blue faced off against Garry Kasparov1, the event resulted in more than <a href="http://www-03.ibm.com/ibm/history/ibm100/us/en/icons/deepblue/">three billion impressions</a>. around the world, and when IBM’s later creation Watson challenged the champions on Jeopardy, millions of viewers were glued to the proceedings.
+
+  <p>
+    <h2>DeepMind’s AlphaGo</h2>
+
+  Taking place right now, there is an event that, while not likely to scale the same media heights, may in fact have far greater implications when it comes to the future of “intelligent” machines. On March 9, in Seoul, South Korea, a computing system know as AlphoGo (built by researchers at DeepMind—a Google Artificial Intelligence lab) began <a href="http://venturebeat.com/2016/02/04/youtube-will-livestream-googles-ai-playing-go-superstar-lee-sedol-in-march/">a five-game match</a> against Lee Se-dol, one of the very best players in the world at the ancient game of Go.
+  <p>
+  Why is this so significant?
+  <p>
+  Here is how the DeepMind team explained it in their paper <a href="http://airesearch.com/wp-content/uploads/2016/01/deepmind-mastering-go.pdf">Mastering the Game of Go with Deep Neural Networks and Tree Search</a>:
+  <p>
+  <i>The game of Go has long been viewed as the most challenging of classic games for artificial intelligence due to its enormous search space and the difficulty of evaluating board positions and moves.</i>
+  <p>
+  Put another way, winning at Go is a kind of Holy Grail for those who strive to create machines that can “think” on their own, because success at this uniquely complex game seems to require something more than just skill, knowledge, and experience. It requires intuition. Feel. Style. Characteristics we associate with humans, not with machines.
+  1 Garry Kasparov is a Russian chess Grandmaster and former World Chess Champion
+</body>
+</html>
